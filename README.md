@@ -2,7 +2,7 @@
 
 ### Demo
 
-![Demo](ResumeWebsite.gif)
+![Demo](ResumeWebsite1.gif)
 
 
 > The project, “Resume Website” is a simple website made with the help of pure basic html and css,and bootstrap it is hosted with the help of github pages
